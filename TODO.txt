@@ -1,2 +1,8 @@
 Hi Guys!
 Today I am learning what is and how to work with git and github.
+
+Here is the to do list:
+- Create my first repository (done)
+- Add a file to the repo (done)
+- Check out the git history (done)
+- Pull from a rmote repo
