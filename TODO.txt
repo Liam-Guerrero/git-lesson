@@ -1,0 +1,2 @@
+Hi Guys!
+Today I am learning what is and how to work with git and github.
